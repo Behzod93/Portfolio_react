@@ -188,7 +188,7 @@ const App: React.FC = () => {
             <div className="absolute -inset-4 bg-gradient-to-r from-emerald-500 to-cyan-500 rounded-2xl blur-2xl opacity-10 group-hover:opacity-30 transition duration-1000"></div>
             <div className="relative rounded-2xl overflow-hidden border border-white/10 shadow-2xl aspect-square max-w-md mx-auto">
               <img 
-                src="https://images.unsplash.com/photo-1581091226825-a6a2a5aee158?auto=format&fit=crop&q=80&w=800" 
+                src="https://i.pinimg.com/736x/87/f2/ec/87f2ec93e7e4d9b4a9331a8b7042fae1.jpg " 
                 alt="Automotive Manufacturing to IT" 
                 className="w-full h-full object-cover grayscale group-hover:grayscale-0 transition-all duration-700"
               />
@@ -320,6 +320,7 @@ const App: React.FC = () => {
                   <img src={p.image} alt={p.title} className="w-full h-full object-cover group-hover:scale-110 transition-transform duration-700" />
                   <div className="absolute inset-0 bg-gradient-to-t from-[#0f172a] via-transparent to-transparent opacity-80"></div>
                   <div className="absolute top-4 right-4">
+                    
                     <div className="bg-black/40 backdrop-blur-md px-3 py-1 rounded-lg text-[10px] font-bold text-white uppercase tracking-wider border border-white/10">
                       Featured
                     </div>
