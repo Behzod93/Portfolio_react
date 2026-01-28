@@ -1,0 +1,8 @@
+
+{
+  "name": "Behzod Zuhriddinov Portfolio",
+  "description": "Professional portfolio for Behzod Zuhriddinov, featuring 14 years of experience at UzAutoMotors and transition into IT.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
